@@ -1,2 +1,3 @@
 # DinnimanDocs
-Gitbook Code and Wiki updates for DCC projects and documentation
+preliminary respository and testing space for Wiki updates, Website migration and overhaul, general DCC projects and documentation. Template to come. 
+-L
